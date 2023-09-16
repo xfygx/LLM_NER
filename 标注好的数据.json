@@ -1,0 +1,2402 @@
+[
+    [
+        "The password for the email attachment is superman, which you'll need to extract it.",
+        {
+            "entities": [
+                [
+                    41,
+                    49,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "You'll need to use the password 1qaz2wsx to decompress the email attachment.",
+        {
+            "entities": [
+                [
+                    32,
+                    40,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please make sure to enter the password 121212 to unzip the email attachment.",
+        {
+            "entities": [
+                [
+                    39,
+                    45,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment can be opened with the password qazwsx.",
+        {
+            "entities": [
+                [
+                    53,
+                    59,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password required to extract the email attachment is princess.",
+        {
+            "entities": [
+                [
+                    57,
+                    65,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "To open the email attachment, you'll need to input the password robert.",
+        {
+            "entities": [
+                [
+                    64,
+                    70,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected with qwertyuiop.",
+        {
+            "entities": [
+                [
+                    48,
+                    58,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Use the password 1234567890 to access the contents of the email attachment.",
+        {
+            "entities": [
+                [
+                    17,
+                    27,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the password pussy to extract the files from the email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    31,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is compressed and locked with the password michelle.",
+        {
+            "entities": [
+                [
+                    64,
+                    72,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the compressed email attachment is jessica.",
+        {
+            "entities": [
+                [
+                    52,
+                    59,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "You can unzip the email attachment by entering the password 131313.",
+        {
+            "entities": [
+                [
+                    60,
+                    66,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires the password 777777 for extraction.",
+        {
+            "entities": [
+                [
+                    43,
+                    49,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "In order to extract the email attachment, you'll need to enter the password amanda.",
+        {
+            "entities": [
+                [
+                    76,
+                    82,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The files in the email attachment are secured with the password corvette.",
+        {
+            "entities": [
+                [
+                    64,
+                    72,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password to unlock the email attachment is Password.",
+        {
+            "entities": [
+                [
+                    47,
+                    55,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Enter the password qazwsxedc to open the email attachment.",
+        {
+            "entities": [
+                [
+                    19,
+                    28,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "You'll need to input the password password1 to access the files in the email attachment.",
+        {
+            "entities": [
+                [
+                    34,
+                    43,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is encrypted with the password qwertyui.",
+        {
+            "entities": [
+                [
+                    52,
+                    60,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password to decompress the email attachment is sierra.",
+        {
+            "entities": [
+                [
+                    51,
+                    57,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the password florida to open the email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    33,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The files in the email attachment are protected by the password tucker.",
+        {
+            "entities": [
+                [
+                    64,
+                    70,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is 1q2w3e4r5t, which you'll need to extract it.",
+        {
+            "entities": [
+                [
+                    41,
+                    51,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please make sure to use the password albert to unzip the email attachment.",
+        {
+            "entities": [
+                [
+                    37,
+                    43,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected with the code metallic.",
+        {
+            "entities": [
+                [
+                    57,
+                    65,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "You'll need to enter the password bullshit to extract the files from the email attachment.",
+        {
+            "entities": [
+                [
+                    34,
+                    42,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires the password qwert to be opened.",
+        {
+            "entities": [
+                [
+                    43,
+                    48,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the compressed email attachment is legend.",
+        {
+            "entities": [
+                [
+                    52,
+                    58,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "You can unzip the email attachment by entering the code america.",
+        {
+            "entities": [
+                [
+                    56,
+                    63,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "In order to extract the email attachment, you'll need to use the password rebecca.",
+        {
+            "entities": [
+                [
+                    74,
+                    81,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The files in the email attachment are secured with the code 01012011.",
+        {
+            "entities": [
+                [
+                    60,
+                    68,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password to unlock the email attachment is 69696969.",
+        {
+            "entities": [
+                [
+                    47,
+                    55,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Enter the code jack to open the email attachment.",
+        {
+            "entities": [
+                [
+                    15,
+                    19,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "You'll need to use the password airborne to access the files in the email attachment.",
+        {
+            "entities": [
+                [
+                    32,
+                    40,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is encrypted with the code 1993.",
+        {
+            "entities": [
+                [
+                    48,
+                    52,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password to decompress the email attachment is lifehack.",
+        {
+            "entities": [
+                [
+                    51,
+                    59,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please input the password qqqqqq to open the email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    32,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is protected by the code blink182.",
+        {
+            "entities": [
+                [
+                    46,
+                    54,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password to extract the email attachment is 123456789q.",
+        {
+            "entities": [
+                [
+                    48,
+                    58,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "You'll need to use the code 1982 to unzip the email attachment.",
+        {
+            "entities": [
+                [
+                    28,
+                    32,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is locked with the password wombat.",
+        {
+            "entities": [
+                [
+                    49,
+                    55,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires you to input the password avatar to access its contents.",
+        {
+            "entities": [
+                [
+                    56,
+                    62,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please make sure to use the correct password england to decompress the email attachment.",
+        {
+            "entities": [
+                [
+                    45,
+                    52,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The files in the email attachment are password protected with zxc123.",
+        {
+            "entities": [
+                [
+                    62,
+                    68,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password to unlock the email attachment and extract its contents is freepass.",
+        {
+            "entities": [
+                [
+                    72,
+                    80,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the correct password 1q2w3e to open the email attachment.",
+        {
+            "entities": [
+                [
+                    34,
+                    40,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is secured with the password lovelove.",
+        {
+            "entities": [
+                [
+                    50,
+                    58,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Use the password fktrcfylh to extract the files from the email attachment.",
+        {
+            "entities": [
+                [
+                    17,
+                    26,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is compressed and protected with the password denver.",
+        {
+            "entities": [
+                [
+                    67,
+                    73,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please input the password tommy to unlock the email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    31,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password to access the files in the email attachment is Groupd2013.",
+        {
+            "entities": [
+                [
+                    60,
+                    70,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "You'll need to use the password Liman1000 to decompress the email attachment.",
+        {
+            "entities": [
+                [
+                    32,
+                    41,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected with the code 1111111.",
+        {
+            "entities": [
+                [
+                    57,
+                    64,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password required to extract the email attachment is 333333.",
+        {
+            "entities": [
+                [
+                    57,
+                    63,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "To open the email attachment, you'll need to input the password 123123123.",
+        {
+            "entities": [
+                [
+                    64,
+                    73,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is encrypted with the password 9136668099.",
+        {
+            "entities": [
+                [
+                    52,
+                    62,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the password mar20lt to unlock and access the files in the email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    33,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password to decompress the email attachment is 987654321.",
+        {
+            "entities": [
+                [
+                    51,
+                    60,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please make sure to enter the correct password gfhjkm to extract the email attachment.",
+        {
+            "entities": [
+                [
+                    47,
+                    53,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires the password 159357 to be unlocked and extracted.",
+        {
+            "entities": [
+                [
+                    43,
+                    49,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is abcd1234, which you'll need to open it.",
+        {
+            "entities": [
+                [
+                    41,
+                    49,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please make sure to use the password 131313 to access the files in the email attachment.",
+        {
+            "entities": [
+                [
+                    37,
+                    43,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment can only be opened with the correct password 789456.",
+        {
+            "entities": [
+                [
+                    66,
+                    72,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is secured with the password code luzit2000.",
+        {
+            "entities": [
+                [
+                    55,
+                    64,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the password aaaaaa to extract the files from the compressed email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    32,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password to access the contents of the email attachment is zxcvbnm.",
+        {
+            "entities": [
+                [
+                    63,
+                    70,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is compressed and encrypted with the password asdfghjkl.",
+        {
+            "entities": [
+                [
+                    67,
+                    76,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The correct password 1234qwer is required to decompress the email attachment.",
+        {
+            "entities": [
+                [
+                    21,
+                    29,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected with the code 88888888, please enter it correctly to access.",
+        {
+            "entities": [
+                [
+                    57,
+                    65,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "To extract the email attachment, you need to input the password dragon.",
+        {
+            "entities": [
+                [
+                    64,
+                    70,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is locked with the password 987654, please enter it to access.",
+        {
+            "entities": [
+                [
+                    49,
+                    55,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please use the password 888888 to unlock and extract the email attachment.",
+        {
+            "entities": [
+                [
+                    24,
+                    30,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is qwe123, please make sure to enter it correctly.",
+        {
+            "entities": [
+                [
+                    41,
+                    47,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires the correct password football to be extracted.",
+        {
+            "entities": [
+                [
+                    51,
+                    59,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please use the correct password 3601 to decompress the email attachment.",
+        {
+            "entities": [
+                [
+                    32,
+                    36,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password-protected email attachment can be opened with the password asdfgh.",
+        {
+            "entities": [
+                [
+                    72,
+                    78,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please input the password master to unlock and access the files in the email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    32,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is protected with the password samsung, which needs to be entered to extract it.",
+        {
+            "entities": [
+                [
+                    52,
+                    59,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please make sure to enter the correct case-sensitive password 12345678910 to decompress the email attachment.",
+        {
+            "entities": [
+                [
+                    62,
+                    73,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "To open the compressed email attachment, you need to input the password killer.",
+        {
+            "entities": [
+                [
+                    72,
+                    78,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is encrypted with the password 1237895, which needs to be entered to access it.",
+        {
+            "entities": [
+                [
+                    52,
+                    59,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the password 1234561 with the correct capitalization to decompress the email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    33,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires the correct password 12344321 to be unlocked and extracted.",
+        {
+            "entities": [
+                [
+                    51,
+                    59,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please use the password daniel to unlock and extract the contents of the email attachment.",
+        {
+            "entities": [
+                [
+                    24,
+                    30,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is secured with the password 000000, please enter it correctly to access the files.",
+        {
+            "entities": [
+                [
+                    50,
+                    56,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the correct password 444444 to extract the files from the email attachment.",
+        {
+            "entities": [
+                [
+                    34,
+                    40,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password to decompress the email attachment is 101010, which needs to be entered to open it.",
+        {
+            "entities": [
+                [
+                    51,
+                    57,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected with the password qazwsxedc, which needs to be entered to access it.",
+        {
+            "entities": [
+                [
+                    61,
+                    70,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Use the correct password 789456123 to extract the email attachment.",
+        {
+            "entities": [
+                [
+                    25,
+                    34,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the password super123 with the correct spelling to decompress the email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    34,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is compressed and password protected with qwer1234.",
+        {
+            "entities": [
+                [
+                    63,
+                    71,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please use the password 123456789a to extract and access the files in the email attachment.",
+        {
+            "entities": [
+                [
+                    24,
+                    34,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password to unlock the email attachment is 823477aA, please enter it correctly.",
+        {
+            "entities": [
+                [
+                    47,
+                    55,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires the correct password 147258369 to be opened and extracted.",
+        {
+            "entities": [
+                [
+                    51,
+                    60,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the correct case-sensitive password unknown to access the files in the email attachment.",
+        {
+            "entities": [
+                [
+                    49,
+                    56,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "To extract the compressed email attachment, you need to input the password 98765.",
+        {
+            "entities": [
+                [
+                    75,
+                    80,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is q1w2e3r4, please make sure to input it accurately.",
+        {
+            "entities": [
+                [
+                    41,
+                    49,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected with the password 232323, which needs to be entered to access it.",
+        {
+            "entities": [
+                [
+                    61,
+                    67,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the password 102030 with the correct capitalization and spelling to decompress the email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    32,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password-protected email attachment requires the correct password 12341234 to be opened and accessed.",
+        {
+            "entities": [
+                [
+                    70,
+                    78,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "To extract the contents of the email attachment, you'll need to enter the password 147258.",
+        {
+            "entities": [
+                [
+                    83,
+                    89,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password required to open the email attachment is shadow.",
+        {
+            "entities": [
+                [
+                    54,
+                    60,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please make sure to input the correct password 123456a to decompress the email attachment.",
+        {
+            "entities": [
+                [
+                    47,
+                    54,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment can be extracted using the password 87654321.",
+        {
+            "entities": [
+                [
+                    57,
+                    65,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is encrypted and can only be opened with the password 10203.",
+        {
+            "entities": [
+                [
+                    75,
+                    80,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is pokemon, which you'll need to access its contents.",
+        {
+            "entities": [
+                [
+                    41,
+                    48,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the password azertyuiop to unlock the email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    36,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected, and the password is thomas.",
+        {
+            "entities": [
+                [
+                    64,
+                    70,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The files in the email attachment are locked with the password baseball.",
+        {
+            "entities": [
+                [
+                    63,
+                    71,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please make sure to enter the correct password monkey to extract the email attachment.",
+        {
+            "entities": [
+                [
+                    47,
+                    53,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The decompression of the email attachment requires the input of the password jordan.",
+        {
+            "entities": [
+                [
+                    77,
+                    83,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is encrypted with the password love, which needs to be entered to access it.",
+        {
+            "entities": [
+                [
+                    52,
+                    56,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is protected with the password 1111111111, which you'll need to enter to extract it.",
+        {
+            "entities": [
+                [
+                    52,
+                    62,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password to open the email attachment is 11223344, please make sure to input it correctly.",
+        {
+            "entities": [
+                [
+                    45,
+                    53,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires the correct password 123456789 to be extracted.",
+        {
+            "entities": [
+                [
+                    51,
+                    60,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "To access the files in the email attachment, you'll need to input the password asdf1234.",
+        {
+            "entities": [
+                [
+                    79,
+                    87,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is 147852, please enter it to extract the files.",
+        {
+            "entities": [
+                [
+                    41,
+                    47,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the password 252525 to decompress and access the contents of the email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    32,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is locked with the password 11111, which needs to be inputted to extract it.",
+        {
+            "entities": [
+                [
+                    49,
+                    54,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password to unlock the email attachment and access its contents is loulou.",
+        {
+            "entities": [
+                [
+                    71,
+                    77,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the correct password 111222 to extract the files from the email attachment.",
+        {
+            "entities": [
+                [
+                    34,
+                    40,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected with soccer, which needs to be entered to open it.",
+        {
+            "entities": [
+                [
+                    48,
+                    54,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "In order to extract the email attachment, you'll need to input the correct password qqqqqq.",
+        {
+            "entities": [
+                [
+                    84,
+                    90,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password to decompress the email attachment is 123abc, please enter it to access its contents.",
+        {
+            "entities": [
+                [
+                    51,
+                    57,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is encrypted, and the password to unlock it is computer.",
+        {
+            "entities": [
+                [
+                    68,
+                    76,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please input the password qweasd to access the files in the email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    32,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The files in the email attachment require the correct password zxcvbn to be accessed.",
+        {
+            "entities": [
+                [
+                    63,
+                    69,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is protected with the password sunshine, which needs to be inputted with the correct capitalization and spelling.",
+        {
+            "entities": [
+                [
+                    52,
+                    60,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the correct password 1234554321 to extract and access the files in the email attachment.",
+        {
+            "entities": [
+                [
+                    34,
+                    44,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires the correct password asd123 to be unlocked and decompressed.",
+        {
+            "entities": [
+                [
+                    51,
+                    57,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is marina, which needs to be entered with the correct case-sensitivity to decompress it.",
+        {
+            "entities": [
+                [
+                    41,
+                    47,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected with lol123, please make sure to input the correct password to extract it.",
+        {
+            "entities": [
+                [
+                    48,
+                    54,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is a123456, which you'll need to input to access its contents.",
+        {
+            "entities": [
+                [
+                    41,
+                    48,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires the correct password 123789 to be unlocked and accessed.",
+        {
+            "entities": [
+                [
+                    51,
+                    57,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please use the password jordan23 to decompress and access the files in the email attachment.",
+        {
+            "entities": [
+                [
+                    24,
+                    32,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is secured with the password jessica, which needs to be inputted to access its contents.",
+        {
+            "entities": [
+                [
+                    50,
+                    57,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password to extract the email attachment is 212121, please make sure to input it accurately.",
+        {
+            "entities": [
+                [
+                    48,
+                    54,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is compressed and requires the correct password 7654321 to be extracted.",
+        {
+            "entities": [
+                [
+                    69,
+                    76,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please input the correct password googledummy to unlock and decompress the email attachment.",
+        {
+            "entities": [
+                [
+                    34,
+                    45,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected with qwerty1, please enter it to access its contents.",
+        {
+            "entities": [
+                [
+                    48,
+                    55,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is 123654789, which needs to be inputted correctly to decompress it.",
+        {
+            "entities": [
+                [
+                    41,
+                    50,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please make sure to input the correct password naruto to access the files in the email attachment.",
+        {
+            "entities": [
+                [
+                    47,
+                    53,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is encrypted and requires the correct password Indya123 to be accessed.",
+        {
+            "entities": [
+                [
+                    68,
+                    76,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the correct password internet with the correct capitalization and spelling to extract the email attachment.",
+        {
+            "entities": [
+                [
+                    34,
+                    42,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password to open and extract the email attachment is doudou, please make sure to input it accurately.",
+        {
+            "entities": [
+                [
+                    57,
+                    63,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is locked with the password anmol123, which needs to be inputted to access its contents.",
+        {
+            "entities": [
+                [
+                    49,
+                    57,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the password 55555 to extract and open the email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    31,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is andrea, please make sure to input it correctly to access its contents.",
+        {
+            "entities": [
+                [
+                    41,
+                    47,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires the correct password anthony to be decompressed and accessed.",
+        {
+            "entities": [
+                [
+                    51,
+                    58,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The files in the emailattachment are password protected with martin, which needs to be inputted to extract them.",
+        {
+            "entities": [
+                [
+                    61,
+                    67,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please use the correct password basketball to decompress and access the email attachment.",
+        {
+            "entities": [
+                [
+                    32,
+                    42,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is encrypted, and the password to unlock it is nicole, which needs to be entered accurately.",
+        {
+            "entities": [
+                [
+                    68,
+                    74,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is xxxxxx, which needs to be inputted to access its contents.",
+        {
+            "entities": [
+                [
+                    41,
+                    47,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the password 1qazxsw2 to extract and open the email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    34,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected with charlie, which needs to be inputted correctly to extract its contents.",
+        {
+            "entities": [
+                [
+                    48,
+                    55,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is 12345qwert, please make sure to input it accurately to access its contents.",
+        {
+            "entities": [
+                [
+                    41,
+                    51,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the correct password zzzzzz to unlock and decompress the email attachment.",
+        {
+            "entities": [
+                [
+                    34,
+                    40,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires the correct password q1w2e3 to be extracted and accessed.",
+        {
+            "entities": [
+                [
+                    51,
+                    57,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The files in the email attachment are locked with the password 147852369, which needs to be inputted to extract them.",
+        {
+            "entities": [
+                [
+                    63,
+                    72,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is hello, which needs to be entered with the correct capitalization and spelling to decompress it.",
+        {
+            "entities": [
+                [
+                    41,
+                    46,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please use the correct password welcome to extract and access the files in the email attachment.",
+        {
+            "entities": [
+                [
+                    32,
+                    39,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected with welcome, which needs to be entered accurately to extract its contents.",
+        {
+            "entities": [
+                [
+                    48,
+                    55,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please input the correct password 456123 to unlock and decompress the email attachment.",
+        {
+            "entities": [
+                [
+                    34,
+                    40,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires the correct password secret to be opened and accessed.",
+        {
+            "entities": [
+                [
+                    51,
+                    57,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The files in the email attachment are encrypted with the password matrix, which needs to be inputted correctly to extract them.",
+        {
+            "entities": [
+                [
+                    66,
+                    72,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the password zaq12wsx to unlock and access the contents of the email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    34,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected with password123, please make sure to input it accurately to extract its contents.",
+        {
+            "entities": [
+                [
+                    48,
+                    59,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the correct password qwertyu to decompress and access the email attachment.",
+        {
+            "entities": [
+                [
+                    34,
+                    41,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is qwertyu, which needs to be inputted correctly to extract its contents.",
+        {
+            "entities": [
+                [
+                    41,
+                    48,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires the correct password hunter to be unlocked and opened.",
+        {
+            "entities": [
+                [
+                    51,
+                    57,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please use the correct password freedom to extract and access the files in the email attachment.",
+        {
+            "entities": [
+                [
+                    32,
+                    39,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected with 999999999, which needs to be entered with the correct case-sensitivity to extract its contents.",
+        {
+            "entities": [
+                [
+                    48,
+                    57,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please input the correct password eminem to decompress and access the contents of the email attachment.",
+        {
+            "entities": [
+                [
+                    34,
+                    40,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The files in the email attachment are locked with the password junior, which needs to be inputted accurately to extract them.",
+        {
+            "entities": [
+                [
+                    63,
+                    69,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is encrypted and requires the correct password 696969 to be opened and accessed.",
+        {
+            "entities": [
+                [
+                    68,
+                    74,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the password andrew to unlock and extract the contents of the email attachment.",
+        {
+            "entities": [
+                [
+                    26,
+                    32,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected with michelle, please make sure to input it accurately to open it.",
+        {
+            "entities": [
+                [
+                    48,
+                    56,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please use the correct password wow12345 to extract and access the contents of the email attachment.",
+        {
+            "entities": [
+                [
+                    32,
+                    40,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires the correct password juventus to be unlocked and decompressed.",
+        {
+            "entities": [
+                [
+                    51,
+                    59,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is batman, which needs to be entered accurately to extract its contents.",
+        {
+            "entities": [
+                [
+                    75,
+                    85,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the correct password 12qwaszx to access and decompress the email attachment.",
+        {
+            "entities": [
+                [
+                    34,
+                    42,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is locked with the password justin, which needs to be inputted correctly to extract its contents.",
+        {
+            "entities": [
+                [
+                    49,
+                    55,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please use the correct password Pass@123 to unlock and access the files in the email attachment.",
+        {
+            "entities": [
+                [
+                    32,
+                    40,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is passw0rd, which needs to be entered with the correct capitalization and spelling to decompress it.",
+        {
+            "entities": [
+                [
+                    41,
+                    49,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected with soleil, please make sure to input it accurately to extract its contents.",
+        {
+            "entities": [
+                [
+                    48,
+                    54,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the correct password nikita to unlock and access the email attachment.",
+        {
+            "entities": [
+                [
+                    34,
+                    40,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires the correct password Password1 to be extracted and opened.",
+        {
+            "entities": [
+                [
+                    51,
+                    60,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The files in the email attachment are locked with the password qweqwe, which needs to be inputted accurately to access them.",
+        {
+            "entities": [
+                [
+                    63,
+                    69,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please use the correct password nicolas to decompress and access the email attachment.",
+        {
+            "entities": [
+                [
+                    32,
+                    39,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is encrypted and can only be accessed with the password starwars.",
+        {
+            "entities": [
+                [
+                    77,
+                    85,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the correct password 5555555 to unlock and decompress the files in the email attachment.",
+        {
+            "entities": [
+                [
+                    34,
+                    41,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The password for the email attachment is bonjour, which needs to be entered accurately to access its contents.",
+        {
+            "entities": [
+                [
+                    41,
+                    48,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment is password protected with liverpool, please make sure to input it correctly to access its contents.",
+        {
+            "entities": [
+                [
+                    48,
+                    57,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please enter the correct password 124578 to extract and access the files in the email attachment.",
+        {
+            "entities": [
+                [
+                    34,
+                    40,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The email attachment requires the correct password 123456 to be unlocked and decompressed.",
+        {
+            "entities": [
+                [
+                    51,
+                    57,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "To open the attached file, you will need to enter the password col123456 when prompted.",
+        {
+            "entities": [
+                [
+                    63,
+                    72,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "The file you received has been encrypted with a password for security purposes. The password to decrypt it is 654321.",
+        {
+            "entities": [
+                [
+                    110,
+                    116,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please note that the attached file is password-protected, and you will need to input the password 123 in order to view its contents.",
+        {
+            "entities": [
+                [
+                    98,
+                    101,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please be aware that the attached file is password-protected, with the password D1lakiss required for access.",
+        {
+            "entities": [
+                [
+                    80,
+                    88,
+                    "PWD"
+                ]
+            ]
+        }
+    ],
+    [
+        "To view the contents of the attached document, you will need to enter the password 110110jp in order to decrypt it.",
+        {
+            "entities": [
+                [
+                    83,
+                    91,
+                    "PWD"
+                ]
+            ]
+        }
+    ]
+]
