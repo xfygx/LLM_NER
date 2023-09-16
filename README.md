@@ -19,7 +19,9 @@ json 的格式不匹配 spacy, 用 convert2.py 变换成新的 JSON。
 训练好后，使用 custom_model.py 来使用训练出来的自定义的模型。
 
 开源标注工具repo ：https://github.com/ManivannanMurugavel/spacy-ner-annotator
+
 spacy 数据格式：https://spacy.io/api/data-formats#json-input
+
 在线开源标注工具: https://manivannanmurugavel.github.io/annotating-tool/spacy-ner-annotator/
 
 NER
