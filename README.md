@@ -13,7 +13,9 @@ json 的格式不匹配 spacy, 用 convert2.py 变换成新的 JSON。
 把 train.spacy 和 dev.spacy 还有 output 目录准备好
 使用 convert2bin.py ，把上面的 JSON 生成为 二进制格式。 因为 spacy 3.0 使用新的 二进制格式。
 把二进制数据放到 train.spacy 目录中，数据文件的扩展名是 .spcay ，训练程序会自动找这个扩展名的文件
+
 执行 python -m spacy init fill-config base_config.cfg config.cfg 生成 config.cfg 。
+
 执行 python -m spacy train config.cfg --output ./output --paths.train ./train.spacy --paths.dev ./dev.spacy --gpu-id 0 开始训练
 
 训练好后，使用 custom_model.py 来使用训练出来的自定义的模型。
